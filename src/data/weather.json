@@ -1,0 +1,200 @@
+[
+  {
+    "id": "293396",
+    "name": "Tel Aviv",
+    "weather": {
+      "temperature": {
+        "actual": 294.82
+      },
+      "wind": {
+        "speed": 1.7,
+        "deg": 208
+      },
+      "clouds": {
+        "all": 20,
+        "visibility": 10000,
+        "humidity": 71
+      }
+    }
+  },
+  {
+    "id": "702550",
+    "name": "Lviv",
+    "weather": {
+      "temperature": {
+        "actual": 282.36
+      },
+      "wind": {
+        "speed": 6,
+        "deg": 140
+      },
+      "clouds": {
+        "all": 75,
+        "visibility": 10000,
+        "humidity": 73
+      }
+    }
+  },
+  {
+    "id": "3176959",
+    "name": "Florence",
+    "weather": {
+      "temperature": {
+        "actual": 284.09
+      },
+      "wind": {
+        "speed": 1.54,
+        "deg": 320
+      },
+      "clouds": {
+        "all": 75,
+        "visibility": 10000,
+        "humidity": 89
+      }
+    }
+  },
+  {
+    "id": "4219762",
+    "name": "Rome",
+    "weather": {
+      "temperature": {
+        "actual": 280.68
+      },
+      "wind": {
+        "speed": 1.37,
+        "deg": 87
+      },
+      "clouds": {
+        "all": 1,
+        "visibility": 10000,
+        "humidity": 97
+      }
+    }
+  },
+  {
+    "id": "2988507",
+    "name": "Paris",
+    "weather": {
+      "temperature": {
+        "actual": 280.58
+      },
+      "wind": {
+        "speed": 0.89,
+        "deg": 219
+      },
+      "clouds": {
+        "all": 75,
+        "visibility": 10000,
+        "humidity": 89
+      }
+    }
+  },
+  {
+    "id": "3173435",
+    "name": "Milan",
+    "weather": {
+      "temperature": {
+        "actual": 284.35
+      },
+      "wind": {
+        "speed": 1.03,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 40,
+        "visibility": 10000,
+        "humidity": 80
+      }
+    }
+  },
+  {
+    "id": "2267057",
+    "name": "Lisbon",
+    "weather": {
+      "temperature": {
+        "actual": 286.4
+      },
+      "wind": {
+        "speed": 2.06,
+        "deg": 230
+      },
+      "clouds": {
+        "all": 20,
+        "visibility": 10000,
+        "humidity": 90
+      }
+    }
+  },
+  {
+    "id": "3117735",
+    "name": "Madrid",
+    "weather": {
+      "temperature": {
+        "actual": 278.7
+      },
+      "wind": {
+        "speed": 4.47,
+        "deg": 293
+      },
+      "clouds": {
+        "all": 0,
+        "visibility": 10000,
+        "humidity": 63
+      }
+    }
+  },
+  {
+    "id": "491422",
+    "name": "Sochi",
+    "weather": {
+      "temperature": {
+        "actual": 291.09
+      },
+      "wind": {
+        "speed": 0.76,
+        "deg": 233
+      },
+      "clouds": {
+        "all": 2,
+        "visibility": 10000,
+        "humidity": 53
+      }
+    }
+  },
+  {
+    "id": "587084",
+    "name": "Baku",
+    "weather": {
+      "temperature": {
+        "actual": 292.21
+      },
+      "wind": {
+        "speed": 2.74,
+        "deg": 186
+      },
+      "clouds": {
+        "all": 0,
+        "visibility": 10000,
+        "humidity": 58
+      }
+    }
+  },
+  {
+    "id": "3469058",
+    "name": "Brasília",
+    "weather": {
+      "temperature": {
+        "actual": 283.77
+      },
+      "wind": {
+        "speed": 1.03,
+        "deg": 240
+      },
+      "clouds": {
+        "all": 0,
+        "visibility": 10000,
+        "humidity": 77
+      }
+    }
+  }
+]
